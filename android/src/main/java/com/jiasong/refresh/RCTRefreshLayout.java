@@ -1,8 +1,9 @@
 package com.jiasong.refresh;
 
-import android.support.annotation.NonNull;
 
 import android.view.View;
+
+import androidx.annotation.NonNull;
 
 import com.facebook.react.bridge.WritableMap;
 import com.facebook.react.bridge.WritableNativeMap;

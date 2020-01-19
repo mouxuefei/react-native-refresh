@@ -1,10 +1,10 @@
 package com.jiasong.refresh;
 
-import android.support.annotation.ColorInt;
-import android.support.annotation.NonNull;
-
 import android.content.Context;
 import android.view.View;
+
+import androidx.annotation.ColorInt;
+import androidx.annotation.NonNull;
 
 import com.facebook.react.views.view.ReactViewGroup;
 import com.scwang.smartrefresh.layout.api.RefreshHeader;
